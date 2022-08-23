@@ -12,5 +12,5 @@ Project made by:
 
 -Mario Catapano
 
-All preprocessing and architecture details can be found on the Word Document "Informe", in Spanish.
+All preprocessing and architecture details can be found in the Word Document "Informe", in Spanish.
 
